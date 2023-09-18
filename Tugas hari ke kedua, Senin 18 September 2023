@@ -1,0 +1,43 @@
+Python 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0] on linux
+
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>>>> tinggi = 4
+
+>>> alas - 3
+
+>>> print("Diketahui: tinggi = 4, alas =.3, pertanyaan berapa nilai sisi? \n") 
+    Diketahui: tinggi = 4, alas = 3, pertanyaan berapa nilai sisi?
+
+>>> print("jawab :____________\n")
+    jawab:__________
+
+>>> print("soal ini dapat diselesaikan dengan rumus pythagoras!! \n") 
+    soal ini dapat diselesaikan dengan rumus pythagoras !!
+
+>>> tinggi = 4**2
+
+>>> alas 3**2
+
+
+>>> tinggi = "4**2 (16)"
+
+>>> alas *3**2 (9)"
+
+>>> nilai 16 +9
+
+>>> print(nilai)
+    25
+
+>>>> print(" jadi kita telah mendapatkan sisi nya yaitu sisi = 25 \n")
+     jadi kita telah mendapatkan sisi nya yaitu sisi = 25 \n")
+
+>>> print(" langkah terakhir yaitu kita mencari akar dari sisi - 25 tersebut \n") 
+    Langkah terakhir yaitu kita mencari akar dari sisi 25 tersebut
+
+>>> print(" akar dari 25 adalah (5) \n") 
+    akar dari 25 adalah (5)
+
+>>> print(" jadi nilai sisi nya adalah sisi 5 \n") 
+    jadi nilai sisi nya adalah sisi - 5
+
